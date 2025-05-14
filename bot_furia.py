@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 
-TOKEN = "7717496084:AAGFgBlHZT8eWdtqw3WVYLSi7aSOCFx52IQ"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # Dicionário para armazenar pontuações
